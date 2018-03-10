@@ -14,13 +14,12 @@
 
 [Interviewbit](https://www.interviewbit.com/)
 
+[Dynamic programming exercise](http://p-nand-q.com/python/algorithms/searching/max-sliding-window.html)
+
 
 ## Books
 
 [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
-
-
-
 
 [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1491510368&sr=1-1&keywords=cracking+the+coding+interview+7th+edition)
 
@@ -31,6 +30,10 @@
 [Blog that covers a lot of the fundamental problem solving areas in tech interviews](http://mjuchem.com/)
 
 [30-minute guide to rocking your next coding interview](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b?gi=5ad30465e23b)
+
+[Study note of encelo](https://encelo.github.io/notes.html)
+
+
 
 ## System design (Amazon)
 
@@ -48,7 +51,7 @@ Effective Modern C++ - Scott Meyers
 
 ## Websites
 
-[C++ quizz websites](http://cppquiz.org/quiz/question/151)
+[C++ quizz websites](http://cppquiz.org/quiz/question/)
 
 [Compiler explorer. Allow you to see assembly output of your code](https://godbolt.org/)
 
@@ -58,3 +61,13 @@ Effective Modern C++ - Scott Meyers
 
 [C++ Rvalue References Explained - Thomas Becker](http://thbecker.net/articles/rvalue_references/section_01.html)
 
+# System
+## Books
+
+[Modern operating system - Tanenbaum](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
+
+
+# Network
+## Books
+
+[Computer Networks - Tanenbaum](https://www.amazon.com/Computer-Networks-5th-Andrew-Tanenbaum/dp/0132126958/ref=pd_sim_14_7?_encoding=UTF8&pd_rd_i=0132126958&pd_rd_r=KEED33VQDV2KK7YGE20S&pd_rd_w=hZC2W&pd_rd_wg=8GanM&psc=1&refRID=KEED33VQDV2KK7YGE20S)
