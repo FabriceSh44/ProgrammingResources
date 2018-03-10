@@ -59,7 +59,7 @@ Effective Modern C++ - Scott Meyers
 
 [Compiler explorer. Allow you to see assembly output of your code](https://godbolt.org/)
 
-[C++ stl container choice cheat sheet](https://stackoverflow.com/questions/10699265/how-can-i-efficiently-select-a-standard-library-container-in-c11)
+[C++ std container choice cheat sheet](https://stackoverflow.com/questions/10699265/how-can-i-efficiently-select-a-standard-library-container-in-c11)
 
 ## Blog
 
