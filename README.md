@@ -29,7 +29,7 @@
 
 [Blog that covers a lot of the fundamental problem solving areas in tech interviews](http://mjuchem.com/)
 
-[30-minute guide to rocking your next coding interview](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b?gi=5ad30465e23b)
+[30-minutes guide to rocking your next coding interview](https://medium.freecodecamp.org/coding-interviews-for-dummies-5e048933b82b?gi=5ad30465e23b)
 
 [Study note of encelo](https://encelo.github.io/notes.html)
 
