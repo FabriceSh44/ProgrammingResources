@@ -16,7 +16,6 @@
 
 [Dynamic programming exercise](http://p-nand-q.com/python/algorithms/searching/max-sliding-window.html)
 
-
 ## Books
 
 [Elements of Programming Interviews](https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274836)
@@ -37,8 +36,6 @@
 
 [Big O cheat sheet](http://bigocheatsheet.com/)
 
-
-
 ## System design (Amazon)
 
 [What are system design questions?](https://www.hiredintech.com/system-design )
@@ -47,7 +44,7 @@
 
 ## Books
 
-A Tour of C++ - Bjarne Stroustrup
+[A Tour of C++](http://www.stroustrup.com/Tour.html) - Bjarne Stroustrup
 
 C++ Templates: The Complete Guide, 2nd Edition -  Douglas Gregor
 
@@ -55,11 +52,13 @@ Effective Modern C++ - Scott Meyers
 
 ## Websites
 
-[C++ quizz websites](http://cppquiz.org/quiz/question/)
+[C++ quizz websites](http://cppquiz.org/)
 
 [Compiler explorer. Allow you to see assembly output of your code](https://godbolt.org/)
 
 [C++ std container choice cheat sheet](https://stackoverflow.com/questions/10699265/how-can-i-efficiently-select-a-standard-library-container-in-c11)
+
+[C++ Super-FAQ](https://isocpp.org/faq/)
 
 ## Blog
 
@@ -69,7 +68,6 @@ Effective Modern C++ - Scott Meyers
 ## Books
 
 [Modern operating system - Tanenbaum](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
-
 
 # Network
 ## Books
