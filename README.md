@@ -33,6 +33,10 @@
 
 [Study note of encelo](https://encelo.github.io/notes.html)
 
+[Phone interview tips](https://www.thebalance.com/how-to-ace-a-telephone-interview-for-a-job-in-tech-2072014)
+
+[Big O cheat sheet](http://bigocheatsheet.com/)
+
 
 
 ## System design (Amazon)
