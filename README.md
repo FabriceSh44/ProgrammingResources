@@ -40,6 +40,8 @@
 
 [What are system design questions?](https://www.hiredintech.com/system-design )
 
+[All time favorite high scalability](http://highscalability.com/all-time-favorites)
+
 # C++
 
 ## Books
