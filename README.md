@@ -10,7 +10,7 @@
 
 [Leet Code](https://leetcode.com/)
 
-[Hackerrank] (https://www.hackerrank.com)
+[Hackerrank](https://www.hackerrank.com/)
 
 [Codefights](https://codefights.com/)
 
