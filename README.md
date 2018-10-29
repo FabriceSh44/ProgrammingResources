@@ -38,6 +38,8 @@
 
 [Big O cheat sheet](http://bigocheatsheet.com/)
 
+[Latency numbers](https://gist.github.com/jboner/2841832)
+
 ## System design (Amazon)
 
 [What are system design questions?](https://www.hiredintech.com/system-design )
