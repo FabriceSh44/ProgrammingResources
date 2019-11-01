@@ -66,7 +66,7 @@ Effective Modern C++ - Scott Meyers
 
 [C++ Super-FAQ](https://isocpp.org/faq/)
 
-##Building
+## Building
 
 [C+ building repo](https://github.com/MattPD/cpplinks/blob/master/building.md)
 
