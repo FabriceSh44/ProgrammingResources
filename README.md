@@ -68,7 +68,7 @@ Effective Modern C++ - Scott Meyers
 
 ## Building
 
-[C+ building repo](https://github.com/MattPD/cpplinks/blob/master/building.md)
+[C++ building repo](https://github.com/MattPD/cpplinks/blob/master/building.md)
 
 ## Blog
 
