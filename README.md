@@ -66,6 +66,9 @@ Effective Modern C++ - Scott Meyers
 
 [C++ Super-FAQ](https://isocpp.org/faq/)
 
+##Building
+[C+ building repo](https://github.com/MattPD/cpplinks/blob/master/building.md)
+
 ## Blog
 
 [C++ Rvalue References Explained - Thomas Becker](http://thbecker.net/articles/rvalue_references/section_01.html)
