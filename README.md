@@ -79,6 +79,9 @@ Effective Modern C++ - Scott Meyers
 
 [Modern operating system - Tanenbaum](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
 
+## Articles
+[What Every Programmer Should Know About Memory - Ulrich Drepper](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
+
 # Network
 ## Books
 
