@@ -26,6 +26,8 @@
 
 ## Blog
 
+[Cpp blogs](https://blogsurf.io/tag/cpp)
+
 [Find pattern in leet code exercises](https://medium.com/leetcode-patterns)
 
 [Blog that covers a lot of the fundamental problem solving areas in tech interviews](http://mjuchem.com/)
